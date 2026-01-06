@@ -11,18 +11,24 @@ Currently expanding my skill set in AI-driven testing and LLM ecosystems, with h
 
 ## I’m learning
 - AI / ML fundamentals
-- LangChain
 - LangGraph
 - RAGAS
 - DeepEvals
+- GraphQL
+- 
 
 ---
 
 ## Skills
 - Languages: Java, Python
-- Automation tools: Selenium, Playwright, Cypress
+- Cloud tools: Browserstack
 - Backend testing: Rest-Assured
 - DevOps: CI/CD, GitHub Actions
+
+## Tools   
+- Automation tools: Selenium, Playwright, Cypress, Postman
+- AI tools: Claude, Cursor, Gemini, Notebookllm
+- Test Management tools: Browserstack, Microsoft TFS
 
 ---
 
